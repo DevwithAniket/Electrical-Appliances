@@ -9,6 +9,6 @@
 
 Your project is live at:
 
-**[https://vercel.com/aniket78901s-projects/v0-electrical-appliance-site](https://vercel.com/aniket78901s-projects/v0-electrical-appliance-site)**
+**https://elics.in**
 
 
